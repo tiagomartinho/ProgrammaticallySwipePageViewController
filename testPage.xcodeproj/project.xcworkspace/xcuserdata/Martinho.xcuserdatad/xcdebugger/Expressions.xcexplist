@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UIPageViewController.swipeRight() -&gt; ():PageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataViewController.viewWillAppear(Bool) -&gt; ():DataViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentViewController as? UIPageViewController">
+            </PersistentString>
+            <PersistentString
+               value = " parentViewController as? RootViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
