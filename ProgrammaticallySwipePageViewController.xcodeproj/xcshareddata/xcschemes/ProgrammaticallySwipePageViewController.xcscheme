@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EA07572B1CE4D11B00F525E1"
-               BuildableName = "testPage.app"
-               BlueprintName = "testPage"
-               ReferencedContainer = "container:testPage.xcodeproj">
+               BuildableName = "ProgrammaticallySwipePageViewController.app"
+               BlueprintName = "ProgrammaticallySwipePageViewController"
+               ReferencedContainer = "container:ProgrammaticallySwipePageViewController.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "EA0757431CE4D11B00F525E1"
                BuildableName = "testPageTests.xctest"
                BlueprintName = "testPageTests"
-               ReferencedContainer = "container:testPage.xcodeproj">
+               ReferencedContainer = "container:ProgrammaticallySwipePageViewController.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "EA07574E1CE4D11B00F525E1"
                BuildableName = "testPageUITests.xctest"
                BlueprintName = "testPageUITests"
-               ReferencedContainer = "container:testPage.xcodeproj">
+               ReferencedContainer = "container:ProgrammaticallySwipePageViewController.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA07572B1CE4D11B00F525E1"
-            BuildableName = "testPage.app"
-            BlueprintName = "testPage"
-            ReferencedContainer = "container:testPage.xcodeproj">
+            BuildableName = "ProgrammaticallySwipePageViewController.app"
+            BlueprintName = "ProgrammaticallySwipePageViewController"
+            ReferencedContainer = "container:ProgrammaticallySwipePageViewController.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA07572B1CE4D11B00F525E1"
-            BuildableName = "testPage.app"
-            BlueprintName = "testPage"
-            ReferencedContainer = "container:testPage.xcodeproj">
+            BuildableName = "ProgrammaticallySwipePageViewController.app"
+            BlueprintName = "ProgrammaticallySwipePageViewController"
+            ReferencedContainer = "container:ProgrammaticallySwipePageViewController.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA07572B1CE4D11B00F525E1"
-            BuildableName = "testPage.app"
-            BlueprintName = "testPage"
-            ReferencedContainer = "container:testPage.xcodeproj">
+            BuildableName = "ProgrammaticallySwipePageViewController.app"
+            BlueprintName = "ProgrammaticallySwipePageViewController"
+            ReferencedContainer = "container:ProgrammaticallySwipePageViewController.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

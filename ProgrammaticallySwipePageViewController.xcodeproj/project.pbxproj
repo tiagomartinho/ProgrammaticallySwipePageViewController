@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EA07572C1CE4D11B00F525E1 /* testPage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testPage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA07572C1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProgrammaticallySwipePageViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA07572F1CE4D11B00F525E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EA0757311CE4D11B00F525E1 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		EA0757331CE4D11B00F525E1 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		EA0757231CE4D11A00F525E1 = {
 			isa = PBXGroup;
 			children = (
-				EA07572E1CE4D11B00F525E1 /* testPage */,
+				EA07572E1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController */,
 				EA07572D1CE4D11B00F525E1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 		EA07572D1CE4D11B00F525E1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA07572C1CE4D11B00F525E1 /* testPage.app */,
+				EA07572C1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA07572E1CE4D11B00F525E1 /* testPage */ = {
+		EA07572E1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController */ = {
 			isa = PBXGroup;
 			children = (
 				EA0757611CE4D6CA00F525E1 /* PageViewController.swift */,
@@ -69,6 +69,7 @@
 				EA0757631CE4E19900F525E1 /* PageControllerDelegate.swift */,
 				EA0757661CE4E2CC00F525E1 /* Supporting Files */,
 			);
+			name = ProgrammaticallySwipePageViewController;
 			path = testPage;
 			sourceTree = "<group>";
 		};
@@ -87,9 +88,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA07572B1CE4D11B00F525E1 /* testPage */ = {
+		EA07572B1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA0757581CE4D11B00F525E1 /* Build configuration list for PBXNativeTarget "testPage" */;
+			buildConfigurationList = EA0757581CE4D11B00F525E1 /* Build configuration list for PBXNativeTarget "ProgrammaticallySwipePageViewController" */;
 			buildPhases = (
 				EA0757281CE4D11B00F525E1 /* Sources */,
 				EA0757291CE4D11B00F525E1 /* Frameworks */,
@@ -100,9 +101,9 @@
 			);
 			dependencies = (
 			);
-			name = testPage;
+			name = ProgrammaticallySwipePageViewController;
 			productName = testPage;
-			productReference = EA07572C1CE4D11B00F525E1 /* testPage.app */;
+			productReference = EA07572C1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -120,7 +121,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EA0757271CE4D11A00F525E1 /* Build configuration list for PBXProject "testPage" */;
+			buildConfigurationList = EA0757271CE4D11A00F525E1 /* Build configuration list for PBXProject "ProgrammaticallySwipePageViewController" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -133,7 +134,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA07572B1CE4D11B00F525E1 /* testPage */,
+				EA07572B1CE4D11B00F525E1 /* ProgrammaticallySwipePageViewController */,
 			);
 		};
 /* End PBXProject section */
@@ -295,7 +296,7 @@
 				INFOPLIST_FILE = testPage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cnet.testPage;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ProgrammaticallySwipePageViewController;
 			};
 			name = Debug;
 		};
@@ -306,14 +307,14 @@
 				INFOPLIST_FILE = testPage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cnet.testPage;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ProgrammaticallySwipePageViewController;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA0757271CE4D11A00F525E1 /* Build configuration list for PBXProject "testPage" */ = {
+		EA0757271CE4D11A00F525E1 /* Build configuration list for PBXProject "ProgrammaticallySwipePageViewController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA0757561CE4D11B00F525E1 /* Debug */,
@@ -322,13 +323,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA0757581CE4D11B00F525E1 /* Build configuration list for PBXNativeTarget "testPage" */ = {
+		EA0757581CE4D11B00F525E1 /* Build configuration list for PBXNativeTarget "ProgrammaticallySwipePageViewController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA0757591CE4D11B00F525E1 /* Debug */,
 				EA07575A1CE4D11B00F525E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
